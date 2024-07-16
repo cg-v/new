@@ -1,11 +1,2 @@
  
-hello git
-
-
-hi git..........
-
-
-
-merging from master
-
-mergebracnh from branch1
+hello visruth
